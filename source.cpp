@@ -1,4 +1,4 @@
-//Author: Ömer Alperen Katý - 2017401069
+//Author: Ã–mer Alperen Kati
 //Date: 05/04/2020
 
 #include <iostream>
@@ -205,5 +205,5 @@ int main(int argc, char* argv[]) {
 	return 0;
 }
 
-//Author: Ömer Alperen Katý - 2017401069
+//Author: Ã–mer Alperen Kati
 //Date: 05/04/2020
